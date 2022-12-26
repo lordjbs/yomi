@@ -1,0 +1,3 @@
+
+db = Prisma()
+db.connect()

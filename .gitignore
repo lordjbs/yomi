@@ -47,3 +47,9 @@ yarn-error.log*
 
 # docker
 docker-compose.yml
+
+# python
+/venv/
+__pycache__
+.husky
+.swc
